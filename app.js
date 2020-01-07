@@ -1,2 +1,2 @@
 
-alert("Hello bro")
+alert("Hello osamaa")
